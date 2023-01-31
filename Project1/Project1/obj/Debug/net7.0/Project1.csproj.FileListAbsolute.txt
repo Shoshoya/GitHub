@@ -1,0 +1,15 @@
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/bin/Debug/net7.0/Project1
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/bin/Debug/net7.0/Project1.deps.json
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/bin/Debug/net7.0/Project1.runtimeconfig.json
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/bin/Debug/net7.0/Project1.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/bin/Debug/net7.0/Project1.pdb
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.csproj.AssemblyReference.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.AssemblyInfoInputs.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.AssemblyInfo.cs
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.csproj.CoreCompileInputs.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/refint/Project1.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.pdb
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/Project1.genruntimeconfig.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/Project1/Project1/obj/Debug/net7.0/ref/Project1.dll
