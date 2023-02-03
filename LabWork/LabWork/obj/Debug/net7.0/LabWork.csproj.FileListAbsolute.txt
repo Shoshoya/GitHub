@@ -1,0 +1,15 @@
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/bin/Debug/net7.0/LabWork
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/bin/Debug/net7.0/LabWork.deps.json
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/bin/Debug/net7.0/LabWork.runtimeconfig.json
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/bin/Debug/net7.0/LabWork.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/bin/Debug/net7.0/LabWork.pdb
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.csproj.AssemblyReference.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.AssemblyInfoInputs.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.AssemblyInfo.cs
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.csproj.CoreCompileInputs.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/refint/LabWork.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.pdb
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/LabWork.genruntimeconfig.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabWork/LabWork/obj/Debug/net7.0/ref/LabWork.dll
