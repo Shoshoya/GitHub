@@ -1,0 +1,15 @@
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/bin/Debug/net7.0/LabRobota
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/bin/Debug/net7.0/LabRobota.deps.json
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/bin/Debug/net7.0/LabRobota.runtimeconfig.json
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/bin/Debug/net7.0/LabRobota.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/bin/Debug/net7.0/LabRobota.pdb
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.csproj.AssemblyReference.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.AssemblyInfoInputs.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.AssemblyInfo.cs
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.csproj.CoreCompileInputs.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/refint/LabRobota.dll
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.pdb
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/LabRobota.genruntimeconfig.cache
+/Users/viktoriyashoshoya/Documents/GitHub/GitHub/LabRobota/LabRobota/obj/Debug/net7.0/ref/LabRobota.dll
